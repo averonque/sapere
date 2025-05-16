@@ -47,19 +47,3 @@ Axios abstracts API calls
 
 Each task-related logic resides in its own Vue component
 
-Documentation included in both backend and frontend
-
-🧑‍💼 Why This Matters
-✅ Shows ability to separate concerns and lead scalable projects
-
-✅ Easily understandable for future developers
-
-✅ Matches Sapere’s coding and documentation standards
-
-✅ Delivers functional and delightful UX for task workflows
-
-🏖 Holidays and Payroll (From Employer)
-This project is structured to support long-term maintainability, paid vacation, and performance tracking as mentioned in your company brief.
-
-📄 License
-MIT – Free to use, modify, and grow.
